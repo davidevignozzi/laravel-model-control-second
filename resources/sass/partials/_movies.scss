@@ -1,0 +1,38 @@
+.main_container{
+    padding: 10px 50px;
+    background-color: rgb(240, 240, 240);
+}
+.vh{
+    padding-top: 50px;
+    height:100vh;
+}
+.series{
+    font-size: 50px;
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+}
+h2{
+    color: rgb(255, 0, 0);
+    font-size:26px;
+}
+h2,h3,h4{
+    text-transform: uppercase;
+    padding: 10px 0;
+    font-weight: bold;
+}
+button{
+    font-size:20px;
+    padding: 5px;
+    background-color: black;
+    a{
+        text-transform: uppercase;
+        text-decoration: none;
+        color: red;
+    }
+}
+p{
+    padding-bottom: 15px;
+    color: rgb(19, 18, 18);
+    font-weight: 600;
+    max-width: 95%;
+}
